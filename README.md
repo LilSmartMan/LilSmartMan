@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilSmartMan
+- 👋 Hi, I’m Gray Blanchard.
 - 👀 I’m interested in Web and Software Development, DeFi, Blockchain, and Game Development.
 - 🌱 I’m currently learning Python, HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on DeFi Projects and Websites.
