@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gray Blanchard.
-- 👀 I’m interested in Web and Software Development, DeFi, Blockchain, and Game Development.
-- 🌱 I’m currently learning Python, HTML, CSS, and JavaScript.
+- 👀 I’m interested in Web3 and Software Development, DeFi, and Blockchain.
+- 🌱 I’m currently learning Solidity,Python, HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on DeFi Projects and Websites.
 - 📫 How to reach me (318) 458-2091 or gblanchard679@gmail.com.
 
